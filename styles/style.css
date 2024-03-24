@@ -442,20 +442,7 @@ header p {
 
 
 /* MODAL */
-.modal-body .form-control:focus {
-  box-shadow: none;
-  outline: 1px solid var(--primary) !important;
-}
-
-.modal-body .form-control {
-  background-color: rgba(0, 0, 0, 0.04) !important;
-  border-color: rgba(0, 0, 0, 0.04) !important;
-}
-
-.modal-body .form-label {
-  color: var(--body);
-}
-
-.modal-body textarea {
-  resize: none !important;
+.btn-brown-cl{
+    background-color: #B68C5A;
+    color: #FFFFFF !important;
 }
